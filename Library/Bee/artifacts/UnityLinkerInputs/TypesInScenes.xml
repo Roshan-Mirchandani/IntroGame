@@ -8,7 +8,6 @@
 		<type fullname="UnityEditor.AudioManager" preserve="nothing"/>
 		<type fullname="UnityEditor.InputManager" preserve="nothing"/>
 		<type fullname="UnityEditor.MonoManager" preserve="nothing"/>
-		<type fullname="UnityEditor.MonoScript" preserve="nothing"/>
 		<type fullname="UnityEditor.Physics2DSettings" preserve="nothing"/>
 		<type fullname="UnityEditor.PhysicsManager" preserve="nothing"/>
 		<type fullname="UnityEditor.PlayerSettings" preserve="nothing"/>
@@ -31,7 +30,6 @@
 		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
 		<type fullname="UnityEngine.Shader" preserve="nothing"/>
 		<type fullname="UnityEngine.Sprite" preserve="nothing"/>
-		<type fullname="UnityEngine.TextAsset" preserve="nothing"/>
 		<type fullname="UnityEngine.Texture" preserve="nothing"/>
 		<type fullname="UnityEngine.Texture2D" preserve="nothing"/>
 		<type fullname="UnityEngine.Transform" preserve="nothing"/>

@@ -125,13 +125,6 @@
         },
         {
             "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "MonoScript",
-            "fullManagedTypeName": "UnityEditor.MonoScript",
-            "moduleName": "Core",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Physics2DSettings",
             "fullManagedTypeName": "UnityEditor.Physics2DSettings",
             "moduleName": "Physics2D",
@@ -328,13 +321,6 @@
             "managedAssemblyName": "UnityEngine.dll",
             "nativeClass": "Sprite",
             "fullManagedTypeName": "UnityEngine.Sprite",
-            "moduleName": "Core",
-            "usedInScenes": []
-        },
-        {
-            "managedAssemblyName": "UnityEngine.dll",
-            "nativeClass": "TextAsset",
-            "fullManagedTypeName": "UnityEngine.TextAsset",
             "moduleName": "Core",
             "usedInScenes": []
         },

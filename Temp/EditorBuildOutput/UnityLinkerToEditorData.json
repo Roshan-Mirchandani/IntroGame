@@ -245,12 +245,6 @@
             "icon": null
           },
           {
-            "name": "MonoScript",
-            "scenes": [],
-            "dependencyType": 1,
-            "icon": null
-          },
-          {
             "name": "NamedObject",
             "scenes": [
               "Assets/Scenes/SampleScene.unity"
@@ -373,7 +367,7 @@
           {
             "name": "TextAsset",
             "scenes": [],
-            "dependencyType": 1,
+            "dependencyType": 0,
             "icon": null
           },
           {
